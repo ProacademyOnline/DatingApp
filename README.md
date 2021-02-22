@@ -6,11 +6,25 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screen Captures
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Splash Screen
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![]{https://github.com/proacademyonline/DatingApp/blob/main/assets/images/01_Splash_screen.png}
+
+### Login Page
+
+![]{https://github.com/proacademyonline/DatingApp/blob/main/assets/images/02_Login_page.png}
+
+### Sign in page
+
+![]{https://github.com/proacademyonline/DatingApp/blob/main/assets/images/03_Sign_in.png}
+
+### Forgot password
+
+![]{https://github.com/proacademyonline/DatingApp/blob/main/assets/images/04_Forgot_password.png}
+
+## Demo of the application
+
+![]{https://github.com/proacademyonline/DatingApp/blob/main/assets/images/exercise_app_demo.mp4}
+
