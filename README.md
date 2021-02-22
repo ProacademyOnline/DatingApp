@@ -18,4 +18,7 @@ This project is a starting point for a Flutter application.
 
 ## Demo of the application
 
-<iframe height="360" src="https://github.com/proacademyonline/DatingApp/blob/main/assets/images/exercise_app_demo.mp4" frameborder="0"> </iframe>
+<video width="320" controls preload> 
+    <source src="https://github.com/proacademyonline/DatingApp/blob/main/assets/images/exercise_app_demo.mp4"></source> 
+</video>
+
